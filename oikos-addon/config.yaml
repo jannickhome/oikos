@@ -1,6 +1,6 @@
 name: "Oikos DE"
-description: "Dashboard Home Assistant completamente personalizzabile — card, chip, distintivi e popup componibili (German translation fixes applied)"
-version: "2.6.54-de1"
+description: "Vollständig anpassbares Home-Assistant-Dashboard — Karten, Chips, Badges und Popups frei kombinierbar (Deutsche Version)"
+version: "2.6.54-de2"
 slug: oikos_dashboard_de
 url: https://github.com/jannickhome/oikos
 
